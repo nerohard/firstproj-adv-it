@@ -1,2 +1,2 @@
-# firstproj-adv-it
-Test project for ADV-IT course.
+# git-adv-it
+ADV-IT Git lessons.
